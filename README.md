@@ -1,8 +1,5 @@
 # Software-Projects
-Tuition Calculator reads 'students.dat' file and stores the information as Student object in an array-list. By an enhanced for loop, a tuition for each Student is calculated by polymorphic method calls. The tuition is uniquely calculated depending on the type of student (on-campus or online student). The class writes the student list in 'tuition.dat' with the calculated tuitions in descending order based on the amount of the calculated tuitions.
+This program is a High-Low-Guess card game based on singly linked-list data structure. The bag contains 54 bag nodes as a singly linked-list, and each bag node has a pointer to each card structure that contains each card information: suit and value of a card. At the starting point, a card is drawn with the output of the analysis of probabilities for the left cards in the deck. Then, the user have three choices to guess 1) if the value the next card is higher, 2) lower, or 3) the exact value of the next card. For the option 1) and 2), the user earns 1 point with correct guess, continuing the game. The option 3) requests prompt of guess from the user so if the guess is right, the user earns 5 points. If the guess is not right, the program terminates and outputs "GAME OVER".
 
-The following figure is the class UML diagram. 
-
-![Tuition-uml](https://user-images.githubusercontent.com/20247211/66723922-3afcb380-edd4-11e9-92ae-984a98d23e5e.png)
 
 
