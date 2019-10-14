@@ -2,4 +2,4 @@
 ## Please click the icon of Branch:master (at left top corner) to check my past projects. 
 This repository contains C, C++, and Java projects. 
 
-![1_Dyu63sMUVL-gYEZISOE2BQ](https://user-images.githubusercontent.com/20247211/66726876-9046be00-edf0-11e9-92bc-05d5423ca24a.jpeg)
+<img width="1196" alt="Screen Shot 2019-10-13 at 7 37 29 PM" src="https://user-images.githubusercontent.com/20247211/66726947-05b28e80-edf1-11e9-8cff-af15396251c0.png">
