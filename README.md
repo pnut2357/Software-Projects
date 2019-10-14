@@ -1,4 +1,1 @@
 # Software-Projects C++
-This program outputs word frequency analysis in a text file by reading a text file based on a templated binary-search-tree (BST) data structure. The .cpp file outputs total number of words followed by all the words with their frequencies in the text, total number of unique words followed by all unique words with their frequencies (i.e. frequency must be 1 for all unique words), 5 most and least frequently used words. The program provide the options: 1. Word Analysis in Alphabetical Order, 2. Word Analysis in Frequency Order, 3. Find Words from Hamlet.txt, 4. Output to a Text File Named out_Hamlet.txt, and 5. Quit. The option 3 finds the word for which a user look and prints the frequency of the word. The option 4 outputs the word frequency analysis to a text file for review.
-
-![word_analyzer](https://user-images.githubusercontent.com/20247211/66724401-9336b400-edda-11e9-8552-d131fa384368.jpeg)
